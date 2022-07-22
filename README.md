@@ -1,2 +1,3 @@
 # solana-blackbox-scanner
-Solana blackbox security scanner
+
+Security checklist: https://github.com/coral-xyz/sealevel-attacks
